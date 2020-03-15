@@ -1,31 +1,31 @@
 #EXTM3U
 
 #---------------Malaysia  
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
 https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRRq3kmJh-ggeQfQNbnKGWY)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRqAzcc5SL3ZPYiYaKDNAuY)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe5YaLhCZHjMOIRyFJLEY0s)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA 
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584213835/ei/69psXrroHf6hz7sP-L6SyAg/ip/202.187.208.6/id/Bh5dqmsu2bA.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30az.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/13980/mh/X_/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/2/pl/21/dover/11/keepalive/yes/fexp/23842630/mt/1584192136/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRgIhAMojvIXNIgxtRB1s_tJ7W3cJhELu2puS_3AclIiCw1KFAiEAvsFibeLovqn98heM6SBmcEfpeea1Cv5A4Ol7ZGWI8z4%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRgIhANL5rLKUthRpI9AHwOtEszrzfcAMzf2cz1fTBAWJvTFyAiEA_GbTKn14POpfzpX72NlNv02BEO68En5WIm3bKzPthkc%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
 https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master_04.m3u8
 
 
@@ -46,16 +46,16 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master_04.m
 
 
 #-----------------Singapore
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 ##EXTINF:-1 ch-id="Channel 5" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Favorites",Channel 5
@@ -68,28 +68,28 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #-----------------News
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png",Al Jazeera
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/arirang.png",Arirang TV
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/arirang.png",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png",Bloomberg 
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/bloomberg.png",Bloomberg 
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
-##EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/cgtn.png",CGTN
+##EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/cgtn.png",CGTN
 #https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/nhkworldjp.png",NHK World Japan
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/nhkworldjp.png",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/rt.png",RT
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/rt.png",RT
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/skynews.png",Sky News
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/skynews.png",Sky News
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584213842/ei/8tpsXunrH-vg4-EPpYaMyAI/ip/202.187.208.6/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-uphxqvujvh-30a6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/13080/mh/Yv/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/2/pl/21/dover/11/keepalive/yes/fexp/23842630,23882514/mt/1584192136/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRQIhANXTpoV9VjwC_kXed-nM4nyPDsBgVmSZWyhcUf0ZUz6dAiB3Q4CV54r7GJVuMGxyAubvwjT_57AA9ZsYTXBvi-B6vw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRQIgPnN9CcGDVlNBa46iGpBrsmidxL1kZjEIv0DDOQdPHwkCIQDCnPR7RV9e36ANtAyRM8ViPDYFpDM30-pheFw7TBTDFQ%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
-#EXTINF:-1 tvg-group="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png",TRT World
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 
